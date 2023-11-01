@@ -4,4 +4,4 @@
 - Im currently learning C++
 - Im looking to collaborate on Dam.OS
 - I love Arm Processors
-- I support all software development👍
+- I support all Software Development👍
