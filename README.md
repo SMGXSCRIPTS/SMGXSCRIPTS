@@ -1,5 +1,7 @@
+![IMG_BANNER](https://github.com/SMGXSCRIPTS/SMGXSCRIPTS/raw/main/DAM.OS_GIT_WALLPAPER.jpg
 - Hi Im SMGXSCRIPTS
 - Im interested in Linux Systems
-- Im currently learning Python
+- Im currently learning C++
 - Im looking to collaborate on Dam.OS
 - I love Arm Processors
+- I support all software development👍
