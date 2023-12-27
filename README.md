@@ -1,6 +1,6 @@
 ![IMG_BANNER](https://github.com/SMGXSCRIPTS/SMGXSCRIPTS/raw/main/DAM.OS_GIT_WALLPAPER.jpg)
 - Hi Im SMGXSCRIPTS
-- I Develop Linux Systems
+- I Develop Linux Systems | Dam.OS, Zemuth |
 - Im currently learning Java/Assembly
 - Im looking to collaborate on Dam.OS
 - I love Arm Processors
