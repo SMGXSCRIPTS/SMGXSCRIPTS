@@ -1,8 +1,9 @@
 ![IMG_BANNER](https://github.com/SMGXSCRIPTS/SMGXSCRIPTS/raw/main/DAM.OS_GIT_WALLPAPER.jpg)
 - Hi Im SMGXSCRIPTS
 - I Develop Linux Systems | Dam.OS, Zemuth |
-- Im currently learning Java/Assembly
-- Im looking to collaborate on Dam.OS
-- I love Arm Processors
-- I support all Software Development👍
-- Arduino's are cool
+- Im Currently Learning Java/Assembly
+- Im Looking To Collaborate On Dam.OS
+- I Love Arm Processors
+- I Support All Software Development👍
+- Arduino's Are Cool
+- Current Project[s]: Dam.OS, FurrOS GUI
