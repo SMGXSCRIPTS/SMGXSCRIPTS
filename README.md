@@ -4,6 +4,7 @@
 - Im Currently Learning Java/Assembly
 - Im Looking To Collaborate On Dam.OS
 - I Love Arm Processors
+- I Made A Programming Language Called Zemuth
 - I Support All Software Development👍
 - Arduino's Are Cool
 - Current Project[s]: Dam.OS, FurrOS GUI
