@@ -1,10 +1,10 @@
 ![IMG_BANNER](https://github.com/SMGXSCRIPTS/SMGXSCRIPTS/raw/main/DAM.OS_GIT_WALLPAPER.jpg)
 - Hi Im SMGXSCRIPTS
-- I Develop Low Level Systems | 3D Game Engines, Operating System |
+- I Develop Low Level Systems | 3D Game Engines, Operating Systems |
 - Im Currently Learning Java/Assembly
 - Im Looking To Collaborate On Spectre
 - I Love Arm Processors
-- I Made A Programming Language Called Zemuth
+- Im Making A Programming Language Called Zemuth
 - I Support All Software Development👍
 - Arduino's Are Cool
 - Current Project[s]: | FurrOS, ElysiumOS, Spectre Engine |
