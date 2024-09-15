@@ -2,7 +2,7 @@
 - Hi Im SMGXSCRIPTS
 - I Develop Low Level Systems | 3D Game Engines, Operating Systems |
 - Im Currently Learning Java/Assembly
-- Im Looking To Collaborate On Spectre
+- Im Looking To Collaborate On Spectre and ElysiumOS
 - I Love Arm Processors
 - Im Making A Programming Language Called Zemuth
 - I Support All Software Development👍
