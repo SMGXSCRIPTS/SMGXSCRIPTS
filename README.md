@@ -9,3 +9,5 @@
 - Arduino's Are Cool
 - Current Project[s]: | FurrOS, ElysiumOS, Spectre Engine |
 - Dam.OS Is No Longer In Service
+
+- ElysiumOS And Spectre's Source Codes Are On My Phone And Will Be Uploaded Once Fully Operational.
